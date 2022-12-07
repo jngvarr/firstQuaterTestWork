@@ -25,5 +25,5 @@
 
 >Ссылка на репозиторий GitHub:
 
-> Блок выбор специализации. Котрольная работа [Ссылка](https://github.com/jngvarr/first-quaters-final-project)
+> Блок выбор специализации. Котрольная работа [Ссылка]([https://github.com/jngvarr/first-quaters-final-project](https://github.com/jngvarr/firtQuaterTestWork))
 
